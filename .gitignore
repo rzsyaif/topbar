@@ -1,0 +1,8 @@
+node_modules
+dist
+src-tauri/target
+src-tauri/gen
+
+# Never commit the updater signing key
+*.key
+*.key.pub
